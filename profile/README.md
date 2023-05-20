@@ -1,4 +1,7 @@
-# Glasgow Street Aid SCIO
-
+<div>
+<p align="center">
 ![Glasgow Street Aid logo](https://raw.githubusercontent.com/Glasgow-Street-Aid-SCIO/.github/develop/assets/logo.webp)
-![Glasgow Street Aid logo](https://raw.githubusercontent.com/Glasgow-Street-Aid-SCIO/.github/develop/assets/logo.png)
+</p>
+</div>
+
+# Welcome to our GitHub profile!

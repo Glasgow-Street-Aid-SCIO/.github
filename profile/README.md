@@ -1,3 +1,3 @@
 # Glasgow Street Aid SCIO
 
-This is a test!
+<img src="./../assets/logo.webp"/>

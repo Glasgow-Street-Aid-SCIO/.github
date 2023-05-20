@@ -1,3 +1,3 @@
 # Glasgow Street Aid SCIO
 
-<img src="./../assets/logo.webp"/>
+<img src="./../assets/logo.png"/>

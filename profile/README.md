@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-![Glasgow Street Aid logo](https://raw.githubusercontent.com/Glasgow-Street-Aid-SCIO/.github/develop/assets/logo.webp)
+<img src="https://raw.githubusercontent.com/Glasgow-Street-Aid-SCIO/.github/develop/assets/logo.webp" alt="Glasgow Street Aid logo" />
 </p>
 </div>
 
